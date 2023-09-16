@@ -3,7 +3,7 @@
 
 A simple prototype for [Shrine](https://m2.material.io/design/material-studies/shrine.html#motion) User Education animation.
 
-![Shrine User Education Animation.](assets/shrine_animation.mp4)
+[Shrine User Education Animation](https://github.com/darkwhite220/ShrineUserEducationAnimation/assets/53045980/f8e6d079-6d29-4b78-b711-418aab248d43)
 
 ## Content
 
@@ -19,11 +19,16 @@ The Bezier Curve used.
 
 ![The Bezier Curve used.](assets/bezier_curve_used.jpg)
 
-*Notice item index*
+**Example 1**
 
-![Example 1.](assets/shrine_animation.mp4)
+[Example 1](https://github.com/darkwhite220/ShrineUserEducationAnimation/assets/53045980/d2ffefa7-1d46-4d5c-9816-119c4ee03f09)
 
-![Example 2 with redirect rendering.](assets/shrine_animation.mp4)
+*Notice item index between the two examples*
+
+**Example 2 with redirect rendering**
+
+[Example 2 with redirect rendering](https://github.com/darkwhite220/ShrineUserEducationAnimation/assets/53045980/814df5f2-3283-4df1-bf4c-ba9438e34656)
+
 
 ## What I learned
 
